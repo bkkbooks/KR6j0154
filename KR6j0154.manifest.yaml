@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR6j0154/v1
+canonical_location: https://kanripo.org/bkk/KR6j0154/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 加句靈驗佛頂尊勝陀羅尼記
+  identifiers:
+    alt_id:
+    - T19n0974C
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0974C.xml
+    old_id: T19n0974C
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0154_000.yaml, hash: 'sha256:547fec7a3f34d946e94c2af8d1df650f9f999fd0fc334071215b331039884806'}
+  - {seq: 1, filename: KR6j0154_001.yaml, hash: 'sha256:b1874cb7828c97d80724fc002f28ed70095447dd33f0b61226797f3e373e944c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0154_001.markers.yaml, hash: 'sha256:9d56cb22f7b3dabb31832dca9478f3999e280b8f13a500ad69b775acdd3f54d6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0154_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3399
+  label: 加句靈驗佛頂尊勝陀羅尼記
+  type: juan
+  level: 1
+hash: sha256:fe5799508f6bf2da2047e2b619fad47a6413d69c8a3e12e3d593080ad11d516a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

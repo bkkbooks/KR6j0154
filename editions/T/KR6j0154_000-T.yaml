@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0154/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 加句靈驗佛頂尊勝陀羅尼記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0974C.xml
+    old_id: T19n0974C
+hash: sha256:547fec7a3f34d946e94c2af8d1df650f9f999fd0fc334071215b331039884806
