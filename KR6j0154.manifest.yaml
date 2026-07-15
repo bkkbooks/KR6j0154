@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0154/v1
 canonical_location: https://kanripo.org/bkk/KR6j0154/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 加句靈驗佛頂尊勝陀羅尼記
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0154_000.yaml, hash: 'sha256:547fec7a3f34d946e94c2af8d1df650f9f999fd0fc334071215b331039884806'}
-  - {seq: 1, filename: KR6j0154_001.yaml, hash: 'sha256:2ec629e1e2f2ff8b9e3accd54f74b90d31316ae6becd0e4fde13f0254a02cf34'}
+  - {seq: 1, filename: KR6j0154_001.yaml, hash: 'sha256:b1874cb7828c97d80724fc002f28ed70095447dd33f0b61226797f3e373e944c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0154_000.markers.yaml, hash: 'sha256:bdf72c12ff768deddb43a0ae313c856e092924475c4a5f923c564eebd1e18e9b'}
-  - {seq: 1, role: markers, filename: assets/KR6j0154_001.markers.yaml, hash: 'sha256:d57d9cf003822c4b472b6a1e9ea49c5b1c10a74f6f74c06c477bda95c57a7785'}
+  - {seq: 1, role: markers, filename: assets/KR6j0154_001.markers.yaml, hash: 'sha256:fecf24a9610055fcb27b8269b7819e481ccf1a494e6e1ea2e93367f611437e27'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 加句靈驗佛頂尊勝陀羅尼記
   type: juan
   level: 1
-hash: sha256:c442429da754bf320d6524fd9c00bcc5960e26c684ff103571f1e606d476e932
+hash: sha256:0b8a14b6695680a5ae1a447e5ae35629d2a4998081dc094f67c58ef2fac6e716
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
